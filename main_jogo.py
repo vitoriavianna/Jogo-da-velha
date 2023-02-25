@@ -50,7 +50,7 @@ def X_ou_O():
         num_2 = "O"
         print("Player 2, você é O. ")
     else:
-        symbol_2 = "X"
+        num_2 = "X"
         print("Player 2, você é X. ")
     input("aperte enter para continuar \n")
     print("\n")
